@@ -1,0 +1,17 @@
+Filter Settings file
+
+Dated:20250819
+
+Equaliser: StormAudio
+Channel: RL
+
+Filter 1: ON Bell Fc 20.0694 Hz Gain 0.99985 dB Q 24.9822
+Filter 2: ON Bell Fc 165.2040 Hz Gain -5.81280 dB Q 14.4172
+Filter 3: ON Bell Fc 47.9539 Hz Gain -4.65378 dB Q 8.4987
+Filter 4: ON Bell Fc 59.9402 Hz Gain 0.99999 dB Q 12.7351
+Filter 5: ON Bell Fc 29.1516 Hz Gain -6.21112 dB Q 24.9999
+Filter 6: ON Bell Fc 67.5035 Hz Gain -7.07245 dB Q 13.0103
+Filter 7: ON Bell Fc 51.5318 Hz Gain -4.25465 dB Q 9.0727
+Filter 8: ON Bell Fc 116.9450 Hz Gain -6.21969 dB Q 17.2693
+Filter 9: ON All Pass Order 2 Fc 498.2960 Hz Gain 0 dB Q 0.618279
+Filter 10: ON All Pass Order 2 Fc 55.8503 Hz Gain 0 dB Q 0.699999

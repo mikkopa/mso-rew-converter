@@ -147,7 +147,7 @@ Output: Separate files with Parametric EQ and All-Pass filters using RBJ Q value
 
 ### Example 2: Combined Output for Hardware Implementation
 ```bash
-python3 convert.py mso_output.txt hardware_config --combine-shared --equaliser "Anthem AVM90"
+python3 convert.py mso_output.txt hardware_config --combine-shared --equaliser "My Processor"
 ```
 Output: Each channel file contains shared subwoofer filters followed by channel-specific filters.
 
@@ -160,7 +160,7 @@ Output: Only Parametric EQ filters using Classic Q values.
 ## Technical Details
 
 ### Q Value Types
-- **RBJ Q**: Uses `Parameter "Q (RBJ)"` values from MSO output
+- **RBJ Q**: Uses `Parameter "Q (RBJ)"` values from MSO output. This is compatible with StormAudio PEQ.
 - **Classic Q**: Uses `"Classic" Q` values from MSO output
 
 ### Filter Processing
